@@ -180,11 +180,6 @@
         <field>Account.YearStarted</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Account.kc_test__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Geolocation</label>
     <objectPermissions>

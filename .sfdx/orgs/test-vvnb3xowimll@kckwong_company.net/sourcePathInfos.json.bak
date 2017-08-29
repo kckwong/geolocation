@@ -46,15 +46,15 @@
     [
         "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1501559853000,
+            "changeTime": 1501559853000,
+            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165",
             "isMetadataFile": false,
-            "size": 238,
-            "modifiedTime": 1501559656000,
-            "changeTime": 1501559656000,
-            "isWorkspace": false,
-            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1033,10 +1033,10 @@
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 207,
-            "modifiedTime": 1501559779000,
-            "changeTime": 1501559779000,
-            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7"
+            "size": 231,
+            "modifiedTime": 1501560402000,
+            "changeTime": 1501560402000,
+            "contentHash": "67bfc52154a72ffaa24fbf37e66a48f1bf67fc89"
         }
     ],
     [
@@ -1135,10 +1135,10 @@
         {
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 396,
-            "modifiedTime": 1501559414000,
-            "changeTime": 1501559414000,
-            "contentHash": "1b91252886d2447a7b894a7b041830341f251951",
+            "size": 478,
+            "modifiedTime": 1501559946000,
+            "changeTime": 1501559946000,
+            "contentHash": "cbdaafb2854eb2a9854b040572db423bfc93cc07",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1174,10 +1174,10 @@
         {
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1501559448000,
-            "changeTime": 1501559448000,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "size": 395,
+            "modifiedTime": 1501560023000,
+            "changeTime": 1501560023000,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1289,92 +1289,131 @@
     [
         "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap",
         {
-            "state": "u",
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1501559656000,
             "changeTime": 1501559656000,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
+            "size": 333,
+            "modifiedTime": 1501560060000,
+            "changeTime": 1501560060000,
+            "contentHash": "d57c68cd5ae760013af45871092f68fdd7556d8b",
             "isMetadataFile": false,
-            "size": 261,
-            "modifiedTime": 1501559690000,
-            "changeTime": 1501559690000,
-            "contentHash": "b34fcebfb5dc798f7cf6689df2f96cc92eb6f534"
+            "state": "u"
         }
     ],
     [
         "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1501559656000,
             "changeTime": 1501559656000,
-            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403"
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 43,
             "modifiedTime": 1501559743000,
             "changeTime": 1501559743000,
-            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe"
+            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
+            "size": 832,
+            "modifiedTime": 1501560105000,
+            "changeTime": 1501560105000,
+            "contentHash": "d399ea1f30bb1ebdef64636a0317a518f5583d6d",
             "isMetadataFile": false,
-            "size": 379,
-            "modifiedTime": 1501559719000,
-            "changeTime": 1501559719000,
-            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83"
+            "state": "u"
         }
     ],
     [
         "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1501559656000,
             "changeTime": 1501559656000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1501559656000,
             "changeTime": 1501559656000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountsLoaded",
+        {
+            "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1501559853000,
+            "changeTime": 1501559853000,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1501559896000,
+            "changeTime": 1501559896000,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "/Users/kckwong/projects/applications/force.com/dx/kcdev/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1501559853000,
+            "changeTime": 1501559853000,
+            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
